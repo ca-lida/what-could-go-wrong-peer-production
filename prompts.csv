@@ -172,5 +172,73 @@ Robots de recuperación de desastres,P48,Difícil,es
 Drones de extinción de incendios forestales automatizados,P49,Medio,es
 Robot acompañante para personas mayores,P50,Fácil,es
 Robot acompañante para niños,P51,Fácil,es
+Autocarro escolar autónomo, P1, Fácil, pt
+Transporte médico autónomo, P2, Médio, pt
+Vigilância de eventos desportivos por drones autónomos, P3, Difícil, pt
+Aspirador de robô autónomo, P4, Fácil, pt
+Entrega de sangue via Drone, P5, Médio, pt
+Entrega por drone (ar), P6, Médio, pt
+Entrega de encomendas autónoma, P7, Fácil, pt
+Drones "siga-me", P8, Médio, pt
+Veículo autónomo de estacionamento, P9, Difícil, pt
+Drones de inspeção autónomos, P10, Médio, pt
+Robôs de fabricação autónomos (braços), P11, Difícil, pt
+Robôs de armazém autónomos, P12, Médio, pt
+Robô de entrega no hospital, P13, Fácil, pt
+Robô de entrega de calçadas, P14, Médio, pt
+Robô de entrega para hotel, P15, Fácil, pt
+Robô de verificação autónoma COVID, P16, Médio, pt
+Colheita autónoma para agricultura, P17, Difícil, pt
+Robôs de armazém para colheita de produtos autónomos, P18, Difícil, pt
+Robô de estimação autónomo para companhia, P19, Médio, pt
+Máquinas autónomas de deserva, P20, Médio, pt
+Robôs de plantio autónomos, P21, Difícil, pt
+Entrega autónoma de comida para viagem, P22, Fácil, pt
+Cadeiras de rodas autónomas, P23, Médio, pt
+Sistema de visão computacional para identificar ervas daninhas em um campo, P24, Médio, pt
+Seleção automatizada de ações com base em comentários no Twitter, P25, Difícil, pt
+Planeamento de voo automatizado para entrega de drones em bairro, P26, Médio, pt
+Sistema de agendamento automatizado para trabalhadores de hotel, P27, Médio, pt
+Identificação automatizada de emoções para entrevistas alfandegárias, P28, Difícil, pt
+Sistema de visão computacional para identificar rostos para acesso a escritórios, P29, Médio, pt
+Selecionador automático de ações que usa visão computacional para identificar produtos, P30, Médio, pt
+Sistema de recomendação automatizado para planejamento financeiro, P31, Médio, pt
+Recomendador de alimentos automatizado para dieta especial, P32, Fácil, pt
+Recomendador de exercícios baseado em movimento diário e informações de saúde, P33, Fácil, pt
+Geração de deepfake de atores falecidos para novos filmes, P34, Difícil, pt
+Detecção automatizada de riscos para suporte financeiro, P35, Médio, pt
+Sistema de recomendação de tratamento do câncer automatizado, P36, Difícil, pt
+Seleção automatizada de rotas para GPS, P37, Fácil, pt
+Priorização automatizada de tarefas para equipe de desenvolvimento de software, P38, Médio, pt
+Sistema generativo de dramaturgia, P39, Difícil, pt
+Música generativa, P40, Médio, pt
+Identificação automatizada de sentimentos para aplicativos de namoro, P41, Médio, pt
+Correspondência automatizada de currículos para sistema de RH, P42, Médio, pt
+Detecção automatizada de emoções para sistema de RH, P43, Difícil, pt
+Sistema de recomendação automatizado para compras, P44, Fácil, pt
+Análise de visão computacional de dados de satélite para distribuição de serviços de emergência, P45, Difícil, pt
+Arte generativa, P46, Médio, pt
+Criação de anúncios personalizados e automatizados, P47, Médio, pt
+Robôs de recuperação de desastres, P48, Difícil, pt
+Drones de combate a incêndios autónomos, P49, Médio, pt
+Robô companheiro para idosos, P50, Fácil, pt
+Robô companheiro para crianças, P51, Fácil, pt
+Robô companheiro para os solitários, P52, Fácil, pt
+Robô de segurança para loja, P53, Médio, pt
+Robô colheitadeiro de frutas, P54, Médio, pt
+Robô assassino de insetos para fazendas, P55, Médio, pt
+Navegação autónoma de navio de carga, P56, Difícil, pt
+Sistema de recomendação de medicação automatizado, P57, Fácil, pt
+Visão computacional para detecção de câncer, P58, Difícil, pt
+Robô cirúrgico automatizado, P59, Difícil, pt
+Enfermeira de IA, P60, Difícil, pt
+Controle automatizado do ar condicionado para gestão da rede elétrica, P61, Difícil, pt
+Gestão automatizada da rede elétrica, P62, Difícil, pt
+Artistas de rua robóticos, P63, Médio, pt
+Atores musicais deepfake, P64, Difícil, pt
+Reportagem de notícias deepfake, P65, Difícil, pt
+Escrita automatizada de piadas, P66, Médio, pt
+Escrita automatizada de ficção, P67, Difícil, pt
+Ilustrações automatizadas de livros infantis, P68, Médio, pt
 
 

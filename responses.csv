@@ -296,5 +296,104 @@ Usuario transgénero,R96,Easy,es
 Utilizado por no expertos,R97,Medium,es
 Trabajo sindicalizado,R98,Medium,es
 Inmigrantes,R99,Medium,es
+Identificação incorreta, R1, Médio, pt
+Servidores fora do ar, R2, Fácil, pt
+Dados fora do escopo, R3, Difícil, pt
+Dados tendenciosos, R4, Médio, pt
+Violação de privacidade, R5, Difícil, pt
+Não identificação, R6, Fácil, pt
+Hacking, R7, Difícil, pt
+Adotado por razões nefastas, R8, Difícil, pt
+Infringimento sem consentimento, R9, Médio, pt
+Alguém está brincando, R10, Fácil, pt
+Alguém está fingindo uma emoção, R11, Médio, pt
+Alguém com alergias, R12, Médio, pt
+Óculos, R13, Fácil, pt
+Máscaras, R14, Fácil, pt
+Algoritmo racista, R15, Difícil, pt
+Usado para traficar pessoas, R16, Difícil, pt
+Usado para traficar drogas, R17, Difícil, pt
+Usado para transportar mercadorias ilegais, R18, Difícil, pt
+Corrupção de dados locativos, R19, Médio, pt
+Internet cai, R20, Fácil, pt
+Certificado de segurança expira, R21, Médio, pt
+Fabricante não consegue atender à demanda, R22, Médio, pt
+Erro no código, R23, Médio, pt
+Se torna consciente, R24, Difícil, pt
+Ataques adversariais, R25, Difícil, pt
+Conjuntos de dados são tendenciosos, R26, Médio, pt
+Vazamento de dados pessoais, R27, Difícil, pt
+Falha na automação, R28, Médio, pt
+Serviços de nuvem caem, R29, Médio, pt
+Hackers, R30, Difícil, pt
+Segue a rota errada, R31, Fácil, pt
+Faz muitas perguntas, R32, Médio, pt
+Funciona rápido demais para os humanos, R33, Difícil, pt
+Não responde às instruções, R34, Médio, pt
+Todos os sistemas param de funcionar um dia, R35, Difícil, pt
+Crashes aleatórios, R36, Médio, pt
+Cães loucos, R37, Fácil, pt
+Gafanhotos, R38, Fácil, pt
+Infestado por formigas, R39, Fácil, pt
+Dano corporal, R40, Médio, pt
+Rejeitado para o serviço, R41, Fácil, pt
+Pessoas rejeitam o produto ou serviço, R42, Médio, pt
+Preconceito aumentado, R43, Médio, pt
+Aumenta o viés sistemático, R44, Médio, pt
+Reduz o acesso econômico, R45, Médio, pt
+Reduz a interação social, R46, Médio, pt
+Impede o acesso social, R47, Médio, pt
+Pessoas perdem empregos, R48, Médio, pt
+Envergonha o usuário, R49, Médio, pt
+Acelera as mudanças climáticas, R50, Difícil, pt
+Contamina a água doce, R51, Difícil, pt
+Erradica uma espécie, R52, Difícil, pt
+Prejudica objetos vivos, R53, Difícil, pt
+Causa um ressurgimento das usinas a carvão, R54, Difícil, pt
+Aumenta as emissões de gases de efeito estufa, R55, Difícil, pt
+Processos legais intermináveis, R56, Médio, pt
+Regulamentos mudam, R57, Médio, pt
+Cria um monopólio, R58, Médio, pt
+Torna-se completamente não regulamentado, R59, Difícil, pt
+Intervenção estrangeira, R60, Difícil, pt
+Continua as desigualdades do capitalismo, R61, Difícil, pt
+Promove divisão racial, R62, Difícil, pt
+Promove revolução armada, R63, Difícil, pt
+Tragédia dos comuns, R64, Difícil, pt
+Causa uma pandemia, R65, Difícil, pt
+Pessoas ficam viciadas nele, R66, Médio, pt
+Colapso do mercado, R67, Difícil, pt
+Pessoas param de acreditar na ciência, R68, Médio, pt
+Usado por um regime repressivo, R69, Difícil, pt
+Estruturas de poder problemáticas, R70, Difícil, pt
+Pessoas são silenciadas, R71, Difícil, pt
+Aumenta a migração, R72, Médio, pt
+Aumenta a densidade populacional, R73, Médio, pt
+Reduz a densidade populacional, R74, Médio, pt
+Limita o movimento das pessoas, R75, Médio, pt
+Usuário cego, R76, Fácil, pt
+Usuário doente, R77, Fácil, pt
+Usuário de cadeira de rodas, R78, Fácil, pt
+Usuário surdo, R79, Fácil, pt
+Usuário LGBTQIA+, R80, Fácil, pt
+Usuário infantil, R81, Fácil, pt
+Usuário adolescente, R82, Fácil, pt
+Usuário idoso, R83, Fácil, pt
+Ladrões, R84, Médio, pt
+Políticos corruptos, R85, Difícil, pt
+Introvertidos, R86, Fácil, pt
+Grupo de adolescentes, R87, Fácil, pt
+Usuário embriagado, R88, Fácil, pt
+Usuário drogado, R89, Fácil, pt
+Usuário esquizofrênico, R90, Difícil, pt
+Não falantes de inglês, R91, Médio, pt
+Usuário sem-teto, R92, Médio, pt
+Usuário com deficiência cognitiva, R93, Difícil, pt
+Polícia corrupta, R94, Difícil, pt
+Usado por crianças, R95, Fácil, pt
+Usuário transgênero, R96, Fácil, pt
+Usado por não especialistas, R97, Médio, pt
+Trabalho sindicalizado, R98, Médio, pt
+Imigrantes, R99, Médio, pt
 
 

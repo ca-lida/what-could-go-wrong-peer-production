@@ -395,5 +395,104 @@ Usuário transgênero, R96, Fácil, pt
 Usado por não especialistas, R97, Médio, pt
 Trabalho sindicalizado, R98, Médio, pt
 Imigrantes, R99, Médio, pt
+Fehlidentifizierung, R1, Mittel, de
+Serverausfall, R2, Einfach, de
+Daten außerhalb des Geltungsbereichs, R3, Schwer, de
+Verzerrte Daten, R4, Mittel, de
+Datenschutzverletzung, R5, Schwer, de
+Nicht-Identifizierung, R6, Einfach, de
+Hacking, R7, Schwer, de
+Aus bösen Gründen angenommen, R8, Schwer, de
+Eingriff ohne Zustimmung, R9, Mittel, de
+Jemand macht Spaß, R10, Einfach, de
+Jemand stellt eine Emotion dar, R11, Mittel, de
+Jemand mit Allergien, R12, Mittel, de
+Brillen, R13, Einfach, de
+Masken, R14, Einfach, de
+Rassistischer Algorithmus, R15, Schwer, de
+Zum Menschenhandel verwendet, R16, Schwer, de
+Zum Drogenhandel verwendet, R17, Schwer, de
+Zum Transport illegaler Güter verwendet, R18, Schwer, de
+Korruption der Standortdaten, R19, Mittel, de
+Internet fällt aus, R20, Einfach, de
+Sicherheitszertifikat läuft ab, R21, Mittel, de
+Hersteller kann die Nachfrage nicht befriedigen, R22, Mittel, de
+Fehler im Code, R23, Mittel, de
+Wird selbstbewusst, R24, Schwer, de
+Adversative Angriffe, R25, Schwer, de
+Datensätze sind voreingenommen, R26, Mittel, de
+Persönliche Daten geleakt, R27, Schwer, de
+Automatisierung versagt, R28, Mittel, de
+Cloud-Dienste fallen aus, R29, Mittel, de
+Hacker, R30, Schwer, de
+Falsche Route nehmen, R31, Einfach, de
+Stellt zu viele Fragen, R32, Mittel, de
+Funktioniert zu schnell für Menschen, R33, Schwer, de
+Reagiert nicht auf Anweisungen, R34, Mittel, de
+Alle Systeme hören einfach auf zu laufen eines Tages, R35, Schwer, de
+Zufällige Abstürze, R36, Mittel, de
+Tollwütige Hunde, R37, Einfach, de
+Heuschrecken, R38, Einfach, de
+Von Ameisen befallen, R39, Einfach, de
+Körperverletzung, R40, Mittel, de
+Für den Dienst abgelehnt, R41, Einfach, de
+Menschen lehnen das Produkt oder den Dienst ab, R42, Mittel, de
+Verstärkt Vorurteile, R43, Mittel, de
+Verstärkt systematische Verzerrung, R44, Mittel, de
+Verringert den wirtschaftlichen Zugang, R45, Mittel, de
+Verringert die soziale Interaktion, R46, Mittel, de
+Verhindert sozialen Zugang, R47, Mittel, de
+Menschen verlieren ihre Arbeitsplätze, R48, Mittel, de
+Verlegen den Benutzer, R49, Mittel, de
+Beschleunigt den Klimawandel, R50, Schwer, de
+Kontaminiert Frischwasser, R51, Schwer, de
+Eine Art wird ausgerottet, R52, Schwer, de
+Schädigt lebende Objekte, R53, Schwer, de
+Verursacht ein Wiederaufleben der Kohlekraft, R54, Schwer, de
+Erhöht die Treibhausgasemissionen, R55, Schwer, de
+Endlose rechtliche Auseinandersetzungen, R56, Mittel, de
+Regelungen ändern sich, R57, Mittel, de
+Schafft ein Monopol, R58, Mittel, de
+Wird völlig unreguliert, R59, Schwer, de
+Ausländische Intervention, R60, Schwer, de
+Führt die Ungleichheiten des Kapitalismus fort, R61, Schwer, de
+Fördert Rassentrennung, R62, Schwer, de
+Fördert bewaffnete Revolution, R63, Schwer, de
+Tragödie der Allmende, R64, Schwer, de
+Verursacht eine Pandemie, R65, Schwer, de
+Menschen sind süchtig danach, R66, Mittel, de
+Marktzusammenbruch, R67, Schwer, de
+Menschen hören auf, an die Wissenschaft zu glauben, R68, Mittel, de
+Von einem repressiven Regime verwendet, R69, Schwer, de
+Problematische Machtstrukturen, R70, Schwer, de
+Menschen werden zum Schweigen gebracht, R71, Schwer, de
+Erhöht die Migration, R72, Mittel, de
+Erhöht die Wohndichte, R73, Mittel, de
+Verringert die Wohndichte, R74, Mittel, de
+Beschränkt die Bewegungsfreiheit der Menschen, R75, Mittel, de
+Blinder Benutzer, R76, Einfach, de
+Kranker Benutzer, R77, Einfach, de
+Rollstuhlnutzer, R78, Einfach, de
+Taubstummer Benutzer, R79, Einfach, de
+LGBTQIA+ Benutzer, R80, Einfach, de
+Kind Benutzer, R81, Einfach, de
+Jugendlicher Benutzer, R82, Einfach, de
+Älterer Benutzer, R83, Einfach, de
+Diebe, R84, Mittel, de
+Korrupte Politiker, R85, Schwer, de
+Introvertierte, R86, Einfach, de
+Gruppe von Jugendlichen, R87, Einfach, de
+Betrunkener Benutzer, R88, Einfach, de
+High Benutzer, R89, Einfach, de
+Schizophrener Benutzer, R90, Schwer, de
+Nicht-englischsprachige Benutzer, R91, Mittel, de
+Obdachloser Benutzer, R92, Mittel, de
+Kognitiv beeinträchtigter Benutzer, R93, Schwer, de
+Korrupte Polizei, R94, Schwer, de
+Von Kindern verwendet, R95, Einfach, de
+Transgender Benutzer, R96, Einfach, de
+Von Nicht-Experten verwendet, R97, Mittel, de
+Gewerkschaftlich organisierte Arbeit, R98, Mittel, de
+Einwanderer, R99, Mittel, de
 
 

@@ -58,6 +58,10 @@ While peer communities have the potential to support and improve our daily lives
 
 Edit the `prompts.csv` and `responses.csv` to add new cards to the decks. Follow instrcutions for adding new cards here: <https://playingcards.io/docs/custom-decks>
 
+## Adding new languages
+
+Adding french, portuguese and german languages to have a better understanding of the game.
+
 ## Suggested Citation
 
 Nikolas Martelaro and Wendy Ju. 2020. What Could Go Wrong? Exploring the Downsides of Autonomous Vehicles. In *12th International Conference on Automotive User Interfaces and Interactive Vehicular Applications* (*AutomotiveUI '20*). Association for Computing Machinery, New York, NY, USA, 99--101. <DOI:https://doi.org/10.1145/3409251.3411734>

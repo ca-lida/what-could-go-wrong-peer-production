@@ -58,6 +58,7 @@ While peer communities have the potential to support and improve our daily lives
 
 Edit the `prompts.csv` and `responses.csv` to add new cards to the decks. Follow instrcutions for adding new cards here: <https://playingcards.io/docs/custom-decks>
 
+
 ## Adding new languages
 
 Adding french, portuguese and german languages to have a better understanding of the game.

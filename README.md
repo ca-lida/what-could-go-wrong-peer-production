@@ -21,15 +21,30 @@ Kaddour, J. et al. (2023) 'Challenges and Applications of Large Language Models'
 While peer communities have the potential to support and improve our daily lives, there are also challenges and potential downsides to these practices. In this workshop, we intend to foster discussions about the potential negative aspects of online and peer communities in hopes of surfacing challenges that should be considered during the design process rather than after deployment. We will spur these conversations through a review of participant position statements and through group discussion facilitated by a card game called "What Could Go Wrong?" Our goal is to consider the collective creation model, improving technology, and reducing potential drawbacks. By identifying potential harms and downsides, the game players, and the community more broadly can design well-considered solutions.
 
 ## Game Setup Instructions
+Step 1: Download the Game Files
+First, visit the game’s GitHub repository page.
+Locate and download the ZIP file containing the game files, specifically the what-could-go-wrong-av.pcio file, which is the main file used for importing into PlayingCards.io.
 
-1.  Download this repository
-2.  Go to <https://playingcards.io/game/standard-deck> to start a custom deck
-3.  Enter the virtual card table
-4.  Click the `Edit Table` icon in the green toolbard
-5.  Select `Room Options`
-6.  Select `Import From File`
-7.  Upload `what-could-go-worng-av.pcio`
-8.  Click `Edit Table` to exit editing mode and go into gameplay mode
+Step 2: Prepare Your Game Environment
+Open your web browser and visit PlayingCards.io to start creating a custom card game environment.
+On the web page, you will see a standard card game interface. At this point, you are in the preparation phase of the game.
+
+Step 3: Enter the Virtual Card Table
+Click the "Start Game" or "Enter Room" button on the page (the exact text may vary) to enter the virtual card table environment.
+
+Step 4: Customize Your Game Table
+Once the game room has loaded, look for and click the "Edit Table" icon in the green toolbar. This will allow you to customize the game environment.
+In edit mode, select Room Options.
+
+Step 5: Import the Game File
+In the room options, find and select the "Import From File" function.
+At this point, you will be prompted to upload the file. Select and upload the what-could-go-wrong-av.pcio file you downloaded earlier.
+Once the file is uploaded and processed, your gaming desk will automatically be configured for the What Could Go Wrong? game layout.
+
+Step 6: Finalize Setup and Start Playing
+Click "Edit Table" to exit edit mode. At this point, you and your friends will see that the game is ready to play.
+Make sure all participants have joined the game room. You can invite them by sharing the room link.
+
 
 ## Gameplay Instructions
 
